@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/NicolasMansoure/quest2#readme",
     "devDependencies": {
+        "@faker-js/faker": "^7.6.0",
         "cypress": "^12.3.0"
     }
 }
